@@ -1,4 +1,5 @@
-# Ai-object-detection
+# AI-OBJECT-DETECTION
+
 
 /*
 **Author** : Krish Bhardwaj
@@ -7,12 +8,6 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -41,4 +36,3 @@ Probably this will work with the most browsers, but here is a list which browser
 |     Firefox    |     ✅     |
 |     Chrome     |     ✅     |
 
-# AI-OBJECT-DETECTION
